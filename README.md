@@ -9,14 +9,16 @@ GrapheneOS + InviZible Pro is a strong privacy combination. InviZible Pro can ru
 
 
 
-sur le telephone charger le telephone wireless sans
-contact boucher le troue de chargement.
 
 utilisé le téléphone uniquement pour messenger et facebook et les mails outlook proton mail et mail jetable.
 
 chatgpt
-signal
-telegram
+
+signal ou telegram = just pour ce dire ont ce parle ailleur a tell place
+
+
+
+
 fdroid
 google playstore
 
