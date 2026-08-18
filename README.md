@@ -23,15 +23,16 @@ electrum wallet
 
 A good setup:
 1. Install InviZible Pro
-Install from a trusted source such as F-Droid or the project's GitHub releases. �
-GitHub +1
+Install from a trusted source such as F-Droid or the project's GitHub releases. 
+
 2. GrapheneOS settings
 Go to:
 Settings → Network & internet → VPN
 Enable:
 ✅ Always-on VPN
 ✅ Block connections without VPN
-GrapheneOS improves VPN leak protection and adds stronger blocking against VPN bypasses when lockdown is enabled. �
+GrapheneOS improves VPN leak protection and adds stronger blocking against VPN bypasses when lockdown is enabled. 
+
 GrapheneOS
 3. In InviZible Pro
 Enable:
@@ -43,8 +44,9 @@ Enable Tor service
 Enable "Route all traffic through Tor" if you want all apps routed through Tor
 I2P
 Enable only when you need I2P services (it consumes resources)
-InviZible Pro supports running these modules together or separately. �
+InviZible Pro supports running these modules together or separately. 
 InviZible
+
 4. App permissions (GrapheneOS advantage)
 For apps that do not need internet:
 Settings → Apps → choose app → Permissions
@@ -80,6 +82,7 @@ GrapheneOS Always-on VPN + Block without VPN
 Important limitations
 InviZible Pro is not the same as Tails. A phone still has identifiers, radios, apps, notifications, and a persistent OS.
 Tor protects network identity, but apps can still identify you if you log into personal accounts.
+
 Do not run many apps through Tor unless needed; some apps leak information or simply do not work correctly through Tor.
 For maximum anonymity, use Tor Browser with hardened settings rather than normal browsers.
 For a GrapheneOS + InviZible Pro "maximum privacy" setup, I would usually use:
