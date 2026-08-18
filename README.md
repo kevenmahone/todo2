@@ -1,9 +1,21 @@
-GrapheneOS + InviZible Pro is a strong privacy combination. InviZible Pro can run on GrapheneOS without root using Android's local VPN system. It combines Tor, DNSCrypt and I2P. �
-InviZible
+GrapheneOS + InviZible Pro is a strong privacy combination. InviZible Pro can run on GrapheneOS without root using Android's local VPN system. It combines Tor, DNSCrypt and I2P. 
+
+
 
 
 sur le telephone charger le telephone wireless sans
 contact boucher le troue de chargement.
+
+utilisé le téléphone uniquement pour messenger et facebook et les mails outlook proton mail et mail jetable.
+
+chatgpt
+signal
+telegram
+fdroid
+google playstore
+
+electrum wallet
+
 
 
 
